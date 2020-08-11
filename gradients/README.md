@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/XanaduAI/derivatives-of-variational-circuits/blob/master/statistical_estimation/results/grad-sim/fd-vs-ps-simulator.png" width=300px>
+<img align="left" src="https://github.com/XanaduAI/derivatives-of-variational-circuits/blob/master/gradients/results/grad-sim/fd-vs-ps-simulator.png" width=300px>
 
 # Numerics for statistical estimation of gradients
 
