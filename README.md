@@ -3,8 +3,6 @@
 This repository contains the source code used to produce the results presented in
 [*"Estimating derivatives of variational circuits on quantum processors"*](TODO).
 
-<br/>
-
 ## Requirements
 
 The Python packages used to generate the numerics in this project are specified in
