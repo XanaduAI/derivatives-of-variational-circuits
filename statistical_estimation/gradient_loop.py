@@ -14,7 +14,7 @@ import gradient_experiment as exp
 def run(name, hp, ibm_data):
     """Runs benchmarking for the given values."""
 
-    result = exp.run(hp, name=name, log=log, ibm_data=ibm_data)
+    result = exp.run(hp, ibm_data=ibm_data)
 
     for h in hp_not_looped:  # removes hyperparameters from dictionary that are not looped over
         del result[h]
