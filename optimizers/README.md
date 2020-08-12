@@ -1,4 +1,4 @@
-<img align="left" src="https://github.com/XanaduAI/derivatives-of-variational-circuits/blob/master/optimizers/results/sim/gds.png" width=300px>
+<img align="left" src="https://github.com/XanaduAI/derivatives-of-variational-circuits/blob/master/optimizers/sim/gds.png" width=300px>
 
 # Numerics for comparison of optimizers
 
