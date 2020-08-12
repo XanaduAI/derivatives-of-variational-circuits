@@ -1,6 +1,6 @@
 # Numerics for comparison of optimizers
 
-<img align="left" src="https://github.com/XanaduAI/derivatives-of-variational-circuits/blob/master/optimizers/sim/gds.png" width=500px>
+<img align="middle" src="https://github.com/XanaduAI/derivatives-of-variational-circuits/blob/master/optimizers/sim/gds.png" width=500px>
 
 This folder contains the source code for generating plots in the paper focused on the comparison
 of optimizers.
