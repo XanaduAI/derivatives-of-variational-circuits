@@ -1,3 +1,5 @@
+<img align="middle" src="https://github.com/XanaduAI/derivatives-of-variational-circuits/blob/master/gradients/results/grad-sim/fd-vs-ps-simulator.png" width=400px>
+
 # Numerics for statistical estimation of gradients
 
 This folder contains the source code for generating the plots in the paper focused on statistical
@@ -13,8 +15,6 @@ python gradient_loop.py grad-sim 1000
 ```
 
 Where ``1000`` indicates the number of iterations between each save of the output data.
-
-<img align="middle" src="https://github.com/XanaduAI/derivatives-of-variational-circuits/blob/master/gradients/results/grad-sim/fd-vs-ps-simulator.png" width=400px>
 
 # Numerics for statistical estimation of the Hessian
 
