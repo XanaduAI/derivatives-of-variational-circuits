@@ -1,7 +1,5 @@
 # Numerics for statistical estimation of gradients
 
-<br/>
-
 <img align="left" src="https://github.com/XanaduAI/derivatives-of-variational-circuits/blob/master/gradients/results/grad-sim/fd-vs-ps-simulator.png" width=400px>
 
 This folder contains the source code for generating the plots in the paper focused on statistical
