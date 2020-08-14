@@ -1,7 +1,7 @@
-# Estimating derivatives of variational circuits on quantum processors
+# Estimating the gradient and higher-order derivatives on quantum hardware
 
 This repository contains the source code used to produce the results presented in
-[*"Estimating derivatives of variational circuits on quantum processors"*](TODO).
+[*"Estimating the gradient and higher-order derivatives on quantum hardware"*](TODO).
 
 ## Requirements
 
@@ -19,7 +19,7 @@ Andrea Mari, Thomas R. Bromley, and Nathan Killoran
 If you are doing any research using this source code and PennyLane, please cite the following
 papers:
 
-> Andrea Mari, Thomas R. Bromley, and Nathan Killoran. Estimating derivatives of variational circuits on quantum processors. [TODO](TODO) (2020).
+> Andrea Mari, Thomas R. Bromley, and Nathan Killoran. Estimating the gradient and higher-order derivatives on quantum hardware. [TODO](TODO) (2020).
 
 ## License
 
